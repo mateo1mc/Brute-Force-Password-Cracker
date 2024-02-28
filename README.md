@@ -50,6 +50,11 @@ The script measures the time taken to crack the password.
 **This program is for educational purposes only and should not be used for malicious activities.**
 
 
+## Recommendations ✅
+
+**Implement Two-Factor Authentication for Enhanced Security 🔐**
+
+
 ## Author
 **This script has been authored by [@mateo1mc](https://github.com/mateo1mc/). <br>
 Any usage or dissemination without proper permission or without crediting the author is strictly prohibited.⛔**
